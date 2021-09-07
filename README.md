@@ -1,6 +1,6 @@
 # Analysis of vacancies on hh.ru
 
-This project helps to extract important facts from the raw text of hh.ru vacancies in the IT segment of the market. With the help of it, you can get a set of required competencies, a set of nice-to-have competencies, you can extract the name of the sub-area of a given vacancy and other useful facts. 
+This project helps to extract important facts from the raw text of hh.ru vacancies in the IT segment of the market. With the help of it, you can get a set of required skills, a set of nice-to-have skills, you can extract the name of the sub-area of a given vacancy and other useful facts. 
 
 ## Example of usage
 
