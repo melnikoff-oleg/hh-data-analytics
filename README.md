@@ -17,9 +17,9 @@ print(extract_facts_from_vacancy(vacancy_id))
 Result:
 ```
 {
-    'Обязательные компетенции': ['Python', 'NumPy', 'Scikit', 'Работа с базами данных', 'A', 'XGBoost', 'SQL', 'Математический анализ', 'аналитика', 'Математическая статистика', 'Plotly', 'Информационные технологии'], 
-    'Желательные компетенции': ['Нейросети', 'PyTorch'], 
-    'Гибкий график работы': True, 
-    'Подобласть': 'Data Science'
+    'Required skills': ['Python', 'NumPy', 'Scikit', 'Работа с базами данных', 'A', 'XGBoost', 'SQL', 'Математический анализ', 'аналитика', 'Математическая статистика', 'Plotly', 'Информационные технологии'], 
+    'Desirable skills': ['Нейросети', 'PyTorch'], 
+    'Flexible working hours': True, 
+    'Subarea': 'Data Science'
 }
 ```
